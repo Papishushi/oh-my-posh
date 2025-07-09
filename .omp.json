@@ -5,6 +5,15 @@
       "alignment": "left",
       "newline": true,
       "segments": [
+		  {
+          "background": "#FEF5ED",
+          "foreground": "#011627",
+          "leading_diamond": "\ue0b2",
+          "style": "diamond",
+          "template": "\uf489 Sisteplant",
+          "trailing_diamond": "<transparent,#FEF5ED>\ue0b2</>",
+          "type": "text"
+        },
         {
           "background": "#FEF5ED",
           "foreground": "#011627",
